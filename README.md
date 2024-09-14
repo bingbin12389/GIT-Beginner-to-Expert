@@ -21,14 +21,13 @@ It's a powerful tool that has become an essential part of modern software develo
 # Common Git Commands:
 
 `git init: Initializes a new Git repository in your current directory.
-`git add <file>: Stages a file for the next commit.
-`git commit -m "<message>": Creates a new commit with a meaningful message.
-`git branch <branch-name>: Creates a new branch.
-`git checkout <branch-name>: Switches to a different branch.
-`git merge <branch-name>: Merges changes from another branch into your current branch.
+``git add <file>: Stages a file for the next commit.
+``git commit -m "<message>": Creates a new commit with a meaningful message.
+``git branch <branch-name>: Creates a new branch.
+``git checkout <branch-name>: Switches to a different branch.
+``git merge <branch-name>: Merges changes from another branch into your current branch.
 `
 # References
 
 Truy cập trang này để nắm rõ hơn cách làm quen và thực hành Git:
-`
-https://learngitbranching.js.org/?locale=vi
+`https://learngitbranching.js.org/?locale=vi
